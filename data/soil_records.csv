@@ -1,0 +1,6 @@
+soilSampleCode,soilType,phLevel,organicCarbonPercent,nitrogenContentKgPerHa,phosphorusContentKgPerHa,potassiumContentKgPerHa,waterHoldingCapacityPercent,electricalConductivityDsPerM,texture,bulkDensityGPerCm3,sampleCollectionDate,collectionLocation
+SS-KA-2024-001,Alluvial,6.8,1.85,180.5,22.3,145.0,42.0,0.45,Loamy,1.35,2024-01-15,Mysuru District
+SS-KA-2024-002,Black,7.2,2.10,210.0,18.0,320.0,55.0,0.60,Clayey,1.28,2024-02-10,Dharwad District
+SS-TN-2024-001,Red,5.9,0.95,120.0,10.5,95.0,30.0,0.30,Sandy Loam,1.52,2024-03-05,Coimbatore
+SS-TN-2024-002,Laterite,5.5,0.75,90.0,8.0,75.0,25.0,0.25,Sandy,1.60,2024-03-20,Nilgiris
+SS-MH-2024-001,Black,7.8,2.50,240.0,25.0,380.0,62.0,0.75,Clayey,1.20,2024-04-01,Nagpur District

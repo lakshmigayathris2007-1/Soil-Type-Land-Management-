@@ -1,0 +1,4 @@
+surveyNumber,areaInAcres,village,taluk,district,state,latitudeCoordinate,longitudeCoordinate,landClassification,irrigationSourceType,elevationMeters,registrationDate,ownershipDocument
+SY-KA-123-4A,5.25,Hullahalli,Nanjangud,Mysuru,Karnataka,12.12,76.69,Agricultural,Canal,780.0,2018-06-15,RTC-KA-12345
+SY-TN-456-2B,3.00,Kinathukadavu,Pollachi,Coimbatore,Tamil Nadu,10.96,77.07,Agricultural,Borewell,450.0,2019-09-20,Patta-TN-67890
+SY-MH-789-1C,8.50,Wardha,Wardha,Wardha,Maharashtra,20.74,78.61,Agricultural,Canal,300.0,2017-04-10,7/12-MH-11122
